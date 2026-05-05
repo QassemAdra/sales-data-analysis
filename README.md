@@ -75,7 +75,7 @@ This project addresses these challenges through data analysis and visualization.
 ```text
 sales-data-analysis/
 │
-├── Qassem_Pro_Dashboard.xlsx
+├── Sales_Dashboard.xlsx
 ├── README.md
 └── images/
     └── dashboard.png
